@@ -1,18 +1,18 @@
-#E-Commerce Spring Boot Application
-##Overview
+# E-Commerce Spring Boot Application
+## Overview
 This is a Spring Boot-based e-commerce application developed as part of coursework for IT3232. 
 It provides the foundational structure for an e-commerce platform, including essential backend services.
 
-####Features
-Spring Boot framework
+### Features
+- Spring Boot framework
 
-RESTful API design
+- RESTful API design
 
-Maven project structure
+- Maven project structure
 
 
 
-###Installation
+### Installation
 1.Clone the repository:
 
        git clone https://github.com/yourusername/myapp1.git
@@ -28,11 +28,11 @@ Maven project structure
 5.You should see the following message:
 
        Hello SpringBoot
-###Usage
-Access the endpoint /app/msg to get a simple message.
-This is a basic setup, and you can build upon it for further functionality.
+### Usage
+- Access the endpoint /app/msg to get a simple message.
+- This is a basic setup, and you can build upon it for further functionality.
 
-###License
+### License
 This project is open source.
 
 
